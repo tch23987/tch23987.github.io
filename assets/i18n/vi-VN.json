@@ -1,0 +1,16 @@
+{
+  "APP_NAME": "UrParner",
+  "About": "Giới thiệu",
+  "Hello world !": "Xin chào!",
+  "Home": "Trang chủ",
+  "Logged in as": "Đã đăng nhập với",
+  "Login": "Đăng nhập",
+  "Logout": "Thoát",
+  "Password": "Mật khẩu",
+  "Password is required": "Yêu cầu nhập mật khẩu",
+  "Username": "Tên người dùng",
+  "Username is required": "Yêu cầu nhập Tên người dùng ",
+  "Username or password incorrect.": "Tên người dùng hoặc mật khẩu không đúng.",
+  "Remember me": "Nhớ đăng nhập",
+  "Version": "Phiên bản"
+}
